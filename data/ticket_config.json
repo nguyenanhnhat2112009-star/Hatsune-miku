@@ -1,0 +1,19 @@
+{
+    "ticket_category": null,
+    "support_roles": [],
+    "ticket_counter": 0,
+    "max_tickets_per_user": 3,
+    "auto_close_time": 24,
+    "ui_settings": {
+        "panel": {
+            "title": "🎫 Hệ Thống Ticket Hỗ Trợ",
+            "button_label": "Tạo Ticket",
+            "button_emoji": "🎫",
+            "description": "📥 ticket sẽ trả lời sau 24h <:miku_sad:1397954619866480852>\n📥 có thể tạo ticket để hỗ trợ <:miku_sad:1397954619866480852>\n📥 có thế vote ban hoặc mute <:miku_sad:1397954619866480852>\n📥 tạo ticket để hợp tác sever <:miku_sad:1397954619866480852>\n⚠️ không được spam ticket nếu \nPhát hiện sẽ bị mute 1 day hoặc ban",
+            "color": 54442,
+            "image": "https://cdn.discordapp.com/attachments/1410348802476347482/1410356648567902388/IMG_0676.jpg?ex=68b0b87c&is=68af66fc&hm=614fe8f7fad58def538e6cd59dbe025bc10827bf9259763a6b8fe53f2a73d6e7&"
+        }
+    },
+    "panel_channel": 1410350387973722122,
+    "category_id": 1410350076475478098
+}

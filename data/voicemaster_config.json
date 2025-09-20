@@ -1,0 +1,20 @@
+{
+  "1410346299513114799": {
+    "enabled": true,
+    "join_to_create_id": 1410510190478098484,
+    "category_id": 1410346300968407137,
+    "channel_name_format": "{user}'s Channel",
+    "default_limit": 0,
+    "setup_by": 1299777672905363569,
+    "setup_time": "2025-08-28T13:23:53.756226"
+  },
+  "1247453773060771941": {
+    "enabled": true,
+    "join_to_create_id": 1410541511287767100,
+    "category_id": 1387832743978729712,
+    "channel_name_format": "{user}'s Channel",
+    "default_limit": 0,
+    "setup_by": 1299777672905363569,
+    "setup_time": "2025-08-28T15:28:23.501152"
+  }
+}
