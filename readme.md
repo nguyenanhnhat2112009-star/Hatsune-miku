@@ -8,7 +8,7 @@
 ---
 1. CLONE REPO NÀY VỀ
 ```
-git clone -b Muti_language+database-support https://github.com/ShindouAris/ArisMusicBot.git
+git clone -b Hatsune-miku https://github.com/nguyenanhnhat2112009-star/Hatsune-miku.git
 ```
 2. Cài đặt requirements
 ```
